@@ -1,14 +1,14 @@
 
 def create_olympics_hash
   # Implement this method so that it returns a hash with the data provided on README.md
-  return summer_olympics = {
+  summer_olympics = {
     :Sydney => 2000,
     :Athens => 2004,
     :Beijing => 2008,
     :London => 2012
   }
 end
-create_olympics_hash
+
 
 def add_a_key_value_pair
     summer_olympics = {
